@@ -4,7 +4,7 @@
 
 To find the most demanded skills for the top 3 popular data roles I filtered the top 3 roles and then got the top 5 skills for these roles. This query highlights what skills top roles in the data field are interested in, and what aspiring data people should be learning to better prepare for these roles. 
 
-View my notebook with detailed steps here: [2_Skill_Demand.ipynb](Data_Project_Analysis\2_Skill_Demand.ipynb)
+View my notebook with detailed steps here: [2_Skill_Demand.ipynb](Data_Project_Analysis/2_Skill_Demand.ipynb)
 
 
 ### Visualize Data 
@@ -38,7 +38,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills for Data Roles](Data_Project_Analysis\images\skill_demand_all_dataRoles.png)
+![Visualization of Top Skills for Data Roles](Data_Project_Analysis/images/skill_demand_all_dataRoles.png)
 
 
 
